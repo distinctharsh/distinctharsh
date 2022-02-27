@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Harsh</h1>
+<h1 align="center">Hii 👋, I'm Harsh</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django Rest Framework**
 
-- 📫 How to reach me **harshraj55818@gmail.com**
+- 📫 How to reach me **harshraj55818@gmail.com or Call me "8178242732"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
