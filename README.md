@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh55818&label=Profile%20views&color=0e75b6&style=flat" alt="harsh55818" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@im_HarshSingh" target="blank"><img src="https://img.shields.io/twitter/follow/@im_HarshSingh?logo=twitter&style=for-the-badge" alt="@im_HarshSingh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/im_HarshSingh" target="blank"><img src="https://img.shields.io/twitter/follow/im_HarshSingh?logo=twitter&style=for-the-badge" alt="im_HarshSingh" /></a> </p>
 
 - 🌱 I’m currently learning **AWS Cloud Computing**
 
