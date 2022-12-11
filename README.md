@@ -1,10 +1,9 @@
 [![MasterHead](https://institute.careerguide.com/wp-content/uploads/2020/10/cloud-computing-GIF.gif)](https://Harsh55818.io)
 <h1 align="center">Hi 👋, I'm Harsh Singh</h1>
 <h3 align="center">I'm a passionate Cloud Engineer & Full Stack Developer.</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/1f/85/e11f8529f2151c06881ee4c98afaec72.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh55818&label=Profile%20views&color=0e75b6&style=flat" alt="harsh55818" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh55818" alt="harsh55818" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@im_HarshSingh" target="blank"><img src="https://img.shields.io/twitter/follow/@im_HarshSingh?logo=twitter&style=for-the-badge" alt="@im_HarshSingh" /></a> </p>
 
