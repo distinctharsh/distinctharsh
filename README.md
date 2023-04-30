@@ -1,15 +1,15 @@
-[![MasterHead](https://institute.careerguide.com/wp-content/uploads/2020/10/cloud-computing-GIF.gif)](https://mr-indian.io)
+[![MasterHead](https://institute.careerguide.com/wp-content/uploads/2020/10/cloud-computing-GIF.gif)](https://harshsinghjii.io)
 <h1 align="center">Hi 👋, I'm Harsh Singh</h1>
 <h3 align="center">I'm a passionate Cloud Engineer & Full Stack Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/1f/85/e11f8529f2151c06881ee4c98afaec72.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-indian&label=Profile%20views&color=0e75b6&style=flat" alt="mr-indian" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshsinghjii&label=Profile%20views&color=0e75b6&style=flat" alt="harshsinghjii" /> </p>
 
 <p align="left"> <a href="https://twitter.com/im_HarshSingh" target="blank"><img src="https://img.shields.io/twitter/follow/im_HarshSingh?logo=twitter&style=for-the-badge" alt="im_HarshSingh" /></a> </p>
 
 - 🌱 I’m currently learning **AWS Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mr-indian](https://github.com/mr-indian)
+- 👨‍💻 All of my projects are available at [https://github.com/harshsinghjii](https://github.com/harshsinghjii)
 
 - 💬 Ask me about **ReactJS, Cloud Computing, Django,**
 
