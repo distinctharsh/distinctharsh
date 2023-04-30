@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/im_harshsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_harshsingh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/harsh-singh-4815a7184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-singh-85a571254" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshsinghjii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harsh-Singh" height="30" width="40" /></a>
 <a href="https://www.facebook.com/harshsinghjii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/harshsinghjii" height="30" width="40" /></a> 
 <a href="https://instagram.com/harshsinghjii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Harsh Singh" height="30" width="40" /></a>
 </p>
