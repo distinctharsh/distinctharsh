@@ -4,7 +4,7 @@
 <!----------------------------------- About Section ------------------------------------>
 <div>
   <img align="right" width="150" alt="Coding" src="https://avatars.githubusercontent.com/u/45917950?s=400&u=7ae7ffface521357e50651fad3b00e93492876d2&v=4">
-<!--   <a href="https://github.com/harshsinghjii?tab=followers">
+<!--   <a href="https://github.com/distinctharsh?tab=followers">
      <img align="right" src="https://img.shields.io/github/followers/devharshsingh?label=Followers&style=social" alt="followers-count">
   </a> -->
   <h3>Hi, I'm Harsh Singh</h3>
@@ -92,7 +92,7 @@
 <!----------------------------------- Profile View Section ------------------------------------>
 <!--
 <p align="left">
-    <a href="https://github.com/harshsinghjii">
+    <a href="https://github.com/distinctharsh">
         <img src="https://komarev.com/ghpvc/?username=devharshsingh&label=Profile%20views&color=0e75b6&style=flat" alt="harshsingh" />
     </a>
     <a href="https://github.com/devharshsingh?tab=followers">
