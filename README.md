@@ -76,7 +76,7 @@
   <a href="https://instagram.com/dev.harshsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev.harshsingh" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@harshsingh8841" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harshsingh8841" height="30" width="40" /></a>
   <a href="https://www.byteskull.com" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-vol-3/24/_wordpress-512.png" alt="byteskull" height="30" width="30" /></a>
-  <a href="https://www.byteskull.com/harsh" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_p-512.png" alt="portfolio" height="30" width="30" /></a>
+  <a href="https://distinctharsh.com" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_p-512.png" alt="portfolio" height="30" width="30" /></a>
 </p>
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
