@@ -8,7 +8,8 @@
      <img align="right" src="https://img.shields.io/github/followers/devharshsingh?label=Followers&style=social" alt="followers-count">
   </a> -->
   <h3>Hi, I'm Harsh Singh</h3>
-  <p>I am Full Stack Web and Android App Developer. I am also an Educator.
+  <p>Hello,
+This is HARSH SINGH , I'm a Professional Software Developer.
 <!--     <a href="https://www.youtube.com/user/harshsingh">
         <img align="center" src="https://img.shields.io/badge/harshsingh Youtube Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/user/harshsingh" />
     </a> having 400k+ Subscribers. -->
